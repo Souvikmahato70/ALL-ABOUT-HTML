@@ -1,0 +1,141 @@
+body{
+    font-family: 'Noto Serif', serif;
+    background-color: #F4F8FF;
+}
+
+
+/* container section style style*/
+.container{
+    background-color: rgb(116, 153, 57);
+    width:90%;
+     margin:0px auto;
+     box-sizing: border-box;
+}
+/* container section style end*/
+
+
+
+/*header section start*/
+header{
+    text-align: center;
+    font-size: 45px;
+
+}
+.symbol{
+    text-align: center;
+    font-size: 35px;
+
+}
+
+
+.logo{
+    width: 200px;
+
+}
+
+/*header section start*/
+
+hr{
+    font-weight: bold;
+    border:3px sienna solid;
+    border-bottom: none;
+}
+
+/* main style start*/
+
+.banner{
+  margin:100px;
+    padding: 10px;
+    width:1100px;
+
+}
+
+.fast-para{
+    text-align: justify;
+    padding:0px 50px ;
+}
+
+.iframe{
+    padding:0px 200px ;
+}
+h3{
+    text-align: center;
+}
+
+.hyperlink{
+    padding: 10px;
+}
+
+ul li a{
+
+    color: #e20899;
+}
+
+ul li{
+    padding:10px;
+}
+
+ul li a:hover{
+    color: red;
+}
+
+.last{
+    padding:10px;
+
+}
+
+footer{
+    text-align: center;
+}
+ /* CSS styles for the comment box */
+ .comment-box {
+    width: 400px;
+    margin: 20px auto;
+}
+.comment-box textarea {
+    width: 100%;
+    height: 150px;
+    resize: vertical;
+}
+.comment-box button {
+    display: block;
+    margin-top: 10px;
+}
+.comment-box .comments {
+    margin-top: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+.comment-box .comment {
+    margin-bottom: 10px;
+}
+ /* CSS styles for the developer details section */
+ .developer-details {
+    width: 600px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+.developer-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.developer-details p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+.developer-details .info-label {
+    font-weight: bold;
+}
+
+
+/* main style end*/
+
+
+
+
+
+
+
+
+
